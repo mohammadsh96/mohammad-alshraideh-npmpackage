@@ -1,0 +1,12 @@
+{
+  "name": "@mohammad-alshraideh/npmpackage",
+  "version": "1.0.0",
+  "description": "mohammad alshraideh first package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "mohammad alshraideh",
+  "license": "ISC"
+}
